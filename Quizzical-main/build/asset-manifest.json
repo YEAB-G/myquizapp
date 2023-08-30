@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/YEAB-G/myquizapp/static/css/main.554c90d6.css",
+    "main.js": "/YEAB-G/myquizapp/static/js/main.9e9b7895.js",
+    "static/media/background-2.png": "/YEAB-G/myquizapp/static/media/background-2.7667f50756fd4b7173a3.png",
+    "static/media/hard-work.png": "/YEAB-G/myquizapp/static/media/hard-work.0cebd8d4788a2c7c1c15.png",
+    "static/media/snap.png": "/YEAB-G/myquizapp/static/media/snap.87f279643d045f6c40a1.png",
+    "static/media/logo.png": "/YEAB-G/myquizapp/static/media/logo.de7355e7d58c438f9754.png",
+    "static/media/medium.png": "/YEAB-G/myquizapp/static/media/medium.18eb9a0645f83343eba1.png",
+    "index.html": "/YEAB-G/myquizapp/index.html",
+    "static/media/escape.svg": "/YEAB-G/myquizapp/static/media/escape.eba9b0cb1a17a2bdc245456f41e7d628.svg",
+    "static/media/arrow-clockwise.svg": "/YEAB-G/myquizapp/static/media/arrow-clockwise.2ba775456dd6033575190ba73b148bac.svg",
+    "main.554c90d6.css.map": "/YEAB-G/myquizapp/static/css/main.554c90d6.css.map",
+    "main.9e9b7895.js.map": "/YEAB-G/myquizapp/static/js/main.9e9b7895.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.554c90d6.css",
+    "static/js/main.9e9b7895.js"
+  ]
+}
